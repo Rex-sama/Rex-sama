@@ -2,13 +2,13 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Rex-sama.Rex-sama)
 [![Github](https://img.shields.io/github/followers/Rex-sama?label=Follow&style=social)](https://github.com/Rex-sama)
-<a href="https://twitter.com/danielhendricks/">
+<a href="https://www.linkedin.com/in/rohit-kadu-6146231b3/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Twitter" title="Twitter" width="25" height="25" />
 </a>
-<a href="https://twitter.com/danielhendricks/">
+<a href="https://www.instagram.com/rohitkadu1998/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Instagram" title="Twitter" width="25" height="25" />
 </a>
-<a href="https://twitter.com/danielhendricks/">
+<a>
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="Gmail" title="Twitter" width="25" height="25" />
 </a>
 <br>
