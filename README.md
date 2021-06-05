@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Rohit Kadu but you can call me Rex :sunglasses:
+### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" height="40" />  I'm Rohit Kadu but you can call me Rex :sunglasses:
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Rex-sama.Rex-sama)
 [![Github](https://img.shields.io/github/followers/Rex-sama?label=Follow&style=social)](https://github.com/Rex-sama)
