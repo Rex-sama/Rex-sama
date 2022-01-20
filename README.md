@@ -15,7 +15,7 @@
 <br>
 I'm a Frontend Developer and I completed my graduation in the field of Computer Engineering from Mumbai University. I love programming language and like to explore new technologies. I also like to make cool projects.
 
-- 💻 I am currently working on a Full Stack application.
+- 💻 I am a Full Stack Developer mostly worked on MERN stack.
 - 📚 I am also learning animation.
 - 🎥 I like watching Anime Shows and Youtube Videos.
 - ⚡Fun Fact : I love drawing and love to play computer games.
